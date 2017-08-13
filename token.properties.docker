@@ -353,7 +353,7 @@
 @ApplicationServer.SSO_DOMAIN@=topcoder.com
 
 #####################################
-# Direct API                        #
+# Direct API v3                        #
 #####################################
 @ApplicationServer.JWT_COOKIE_KEY@=tcjwt_vm
 @ApplicationServer.DIRECT_API_SERVICE_ENDPOINT@= direct.dev.topcoder.com/direct/api/v2/
